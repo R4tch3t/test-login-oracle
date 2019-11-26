@@ -15,8 +15,8 @@ export default class entrar extends React.Component {
     pass: null
   }
 
-  constructor(){
-    super()
+  constructor(props){
+    super(props)
     this.nombre = React.createRef()
     this.pass = React.createRef()
 
