@@ -51,8 +51,8 @@ export default class entrar extends React.Component {
           // console.log(this.nombre)
         //  console.log(this.nombre.current.value);
 
-          //const sendUri = 'http://35.239.230.74:3000/'
-          const sendUri = "http://localhost:3011/";
+          const sendUri = 'http://35.239.230.74:3011/'
+         // const sendUri = "http://localhost:3011/";
         // const nombre = this.nombre.current.value;
         // const pass = this.pass.current.value;
 
